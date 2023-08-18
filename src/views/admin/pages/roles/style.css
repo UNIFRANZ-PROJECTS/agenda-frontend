@@ -1,0 +1,7 @@
+.dialog-container {
+    z-index: 1070;
+}
+
+.drawer-open {
+    z-index: 1060;
+}
